@@ -1,0 +1,1 @@
+print("Happy Republic Day");
